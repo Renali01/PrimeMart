@@ -13,6 +13,7 @@ function App() {
             element={
               <>
                 <Header />
+                I am the checkout page
               </>
             } />
           <Route path="/"
