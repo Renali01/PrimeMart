@@ -1,2 +1,2 @@
 # PrimeMart
-Amazon Ecommerce Clone
+Ecommerce Project
