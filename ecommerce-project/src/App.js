@@ -3,23 +3,23 @@ import React from "react";
 import Header from "./Header";
 import Home from "./Home";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Checkout from "./Checkout";
 
 function App() {
   return (
     <Router>
       <div className="App">
+      <Header />
         <Routes>
           <Route path="/checkout"
             element={
               <>
-                <Header />
-                I am the checkout page
+                <Checkout />
               </>
             } />
           <Route path="/"
             element={
             <>
-              <Header />
               <Home />
             </>
           } />
