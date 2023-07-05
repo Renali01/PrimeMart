@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import './Login.css'
+import { auth } from "./Firebase";
 
 function Login() {
     const [email, setEmail] = useState('');
@@ -12,8 +13,13 @@ function Login() {
 
     const register = e => {
         e.preventDefault();
-        // firebase
-    }
+
+        auth.createUserWithEmailAndPassword(email, password)
+        .then((auth) => {
+            console.log(auth); // successfully creates new user
+        })
+        .catch(error => alert(error.message))
+    } 
 
     return (
         <div className='login'>
