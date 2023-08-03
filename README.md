@@ -35,9 +35,6 @@ The website will be accessible at http://localhost:3000.
 
 ### Checkout page
 ![Screen Shot 2023-08-02 at 9 22 37 PM](https://github.com/Renali01/PrimeMart/assets/59395990/e43c6e6a-7ea6-4dfe-a147-50ff49f82708)
-![Screen Shot 2023-08-02 at 9 25 25 PM](https://github.com/Renali01/PrimeMart/assets/59395990/9a0a187d-ba4f-42c9-bebb-489d863786d5)
 
 ### Payment page
-![Screen Shot 2023-08-02 at 9 25 45 PM](https://github.com/Renali01/PrimeMart/assets/59395990/a2f27461-fa51-4c90-8814-4001276ca802)
-
 ![Screen Shot 2023-08-02 at 9 23 57 PM](https://github.com/Renali01/PrimeMart/assets/59395990/37bf4578-330a-49ac-bd0a-916c290b423c)
