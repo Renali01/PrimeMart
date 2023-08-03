@@ -1,4 +1,5 @@
 # PrimeMart
+Try it out here: https://clone-e3ed3.web.app/
 
 ## Introduction
 Welcome to PrimeMart, a Full-Stack FERN Bookstore Ecommerce Website, a powerful web application, inspired by Amazon.
@@ -25,4 +26,15 @@ To explore PrimeMart on your local machine, follow these steps:
 5. Start the development server: npm start
 The website will be accessible at http://localhost:3000.
 
+## Demo
+### Home page
+![Screen Shot 2023-08-02 at 9 21 06 PM](https://github.com/Renali01/PrimeMart/assets/59395990/ecc1f8d6-a5a8-42ff-bddd-adce02d9ba5d)
 
+### Login page
+![Screen Shot 2023-08-02 at 9 21 41 PM](https://github.com/Renali01/PrimeMart/assets/59395990/71242ca3-f3ef-4337-bf98-a2cb583c3e93)
+
+### Checkout page
+![Screen Shot 2023-08-02 at 9 22 37 PM](https://github.com/Renali01/PrimeMart/assets/59395990/e43c6e6a-7ea6-4dfe-a147-50ff49f82708)
+
+### Payment page
+![Screen Shot 2023-08-02 at 9 23 57 PM](https://github.com/Renali01/PrimeMart/assets/59395990/37bf4578-330a-49ac-bd0a-916c290b423c)
