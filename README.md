@@ -28,4 +28,5 @@ The website will be accessible at http://localhost:3000.
 
 ## Demo
 Try it out here: https://clone-e3ed3.web.app/
+
 ![Screen Shot 2023-08-02 at 9 21 06 PM](https://github.com/Renali01/PrimeMart/assets/59395990/ecc1f8d6-a5a8-42ff-bddd-adce02d9ba5d)
